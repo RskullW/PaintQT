@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/enter-color.png</file>
+        <file>img/save.png</file>
+        <file>img/input.png</file>
+        <file>img/new-document.png</file>
+        <file>img/eraser.png</file>
+    </qresource>
+</RCC>
