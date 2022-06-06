@@ -6,3 +6,6 @@ Opportunities:
 3. Choose the color of the brush and eraser
 4. Choose an eraser
 5. Use CTRL+Z keyboard shortcuts to erase the last element (including the eraser)
+
+# How the app work
+Watch: https://www.youtube.com/watch?v=bTYjzJEnwAU
